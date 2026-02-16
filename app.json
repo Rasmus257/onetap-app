@@ -51,7 +51,7 @@
       "expo-router",
       "expo-web-browser"
     ],
-    "scheme": "One Tap",
+    "scheme": "onetap",
     "experiments": {
       "typedRoutes": true
     },
