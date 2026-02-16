@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "One Tap",
-    "slug": "One Tap",
+    "name": "OneTap",
+    "slug": "onetap",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/natively-dark.png",
